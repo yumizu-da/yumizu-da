@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @yumizu-da
+## 👋 Hi, I’m @yumizu
 
 I’m working as a Machine Learning Engineer in Osaka
 
